@@ -14,7 +14,7 @@
 
 7. $ git init gfirst 하면 만든 파일에 gfirst파일과 .git파일 생성
 
-8. $ git config --global --edit 하면 vscode로 파일 열림 - 
+8. $ git config --global --edit 하면 vscode로 파일 열림 - https://github.com/ashes331/2024-My-OSS-H.W/blob/main/C.zip
 
 
 
