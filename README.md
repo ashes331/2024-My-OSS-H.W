@@ -3,7 +3,7 @@
 
 
 --------------------------------------------------------------------------------
-### 깃허브 open git bash here 
+### 깃허브 open git bash here (https://github.com/ai7dnn/2024-OSS/blob/main/%5B%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%5D%20OSS%202023-2%20%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC.pdf)
 
 1. $ git config --global core.autocrlf true
 2. $ git config --global core.safecrlf false
