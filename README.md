@@ -16,6 +16,10 @@
 
 8. $ git config --global --edit 하면 vscode로 파일 열림 - https://github.com/ashes331/2024-My-OSS-H.W/blob/main/C.zip
 
+9.  $ echo A > basic => basic파일 생성 후 메모장으로 열면 A가 있음
+
+10.  
+
 
 
 
