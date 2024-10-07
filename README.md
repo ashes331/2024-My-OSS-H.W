@@ -12,5 +12,12 @@
 5. $ git config --global user.email hskang@gmail.com
 6. $ git config --global init.defaultBranch main
 
+7. $ git init gfirst 하면 만든 파일에 gfirst파일과 .git파일 생성
+
+8. $ git config --global --edit 하면 vscode로 파일 열림 - 
+
+
+
+
 --------------------------------------------------------------------------------
 
