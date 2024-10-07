@@ -3,14 +3,14 @@
 
 
 --------------------------------------------------------------------------------
-깃허브 open git bash here 
+### 깃허브 open git bash here 
 
-$ git config --global core.autocrlf true
-$ git config --global core.safecrlf false
-$ git config --global core.editor 'code --wait'
-$ git config --global user.name hskang
-$ git config --global user.email hskang@gmail.com
-$ git config --global init.defaultBranch main
+1. $ git config --global core.autocrlf true
+2. $ git config --global core.safecrlf false
+3. $ git config --global core.editor 'code --wait'
+4. $ git config --global user.name hskang
+5. $ git config --global user.email hskang@gmail.com
+6. $ git config --global init.defaultBranch main
 
 --------------------------------------------------------------------------------
 
