@@ -1,0 +1,74 @@
+$ git init .
+
+$ echo 666 > f
+
+$ cat f
+
+$ git add f
+
+$ git commit -m first
+
+$ git diff
+
+$ git diff --staged
+
+$ git diff HEAD
+
+$ echo 888 >> f
+
+$ git add f
+
+$ git diff
+
+$ cat f ---> 666/888
+
+$ git diff --staged
+
+$ echo 999 >> f
+
+$ cat f ---> 666/888/999
+
+$ git diff
+
+$ git diff --staged
+
+$ git status -s
+M(green)M(red) f
+
+$ git status
+
+$ git stash(저장)
+
+$ git status
+---> nothing to commit, working tree clean
+
+$ git stash apply --index
+
+$ git ss
+
+$ git config --global alias.ss 'status -s'
+
+--------------------------------------------------------------------------------
+
+WD:
+	666
+	777
+	888
+	999
+
+SA:
+	666
+	777
+	888
+
+GR: 	secind commit
+	666
+	777
+
+GR:	first commit
+	666
+
+---------------------------------------------------------------------------------
+
+$ git reset --hard HEAD~
+
